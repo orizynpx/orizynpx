@@ -1,4 +1,10 @@
-## Hi there 👋
+# Hello, World!
+
+Welcome to the Orizyn Point
+
+I am an IT student trying to become a game developer and product designer/DevOps engineer.
+
+My website can be found [here](https://orizynpx.github.io), hosted on GitHub Pages
 
 <!--
 **orizynpx/orizynpx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
